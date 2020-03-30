@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vcs-connect/precache-manifest.031548126468b1de97d47bf4458a007a.js"
+  "vcs-connect/precache-manifest.61e214f5a92a4f45936c6b3595217ced.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vcs-webrtc"});
